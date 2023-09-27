@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url("/img/fondo_login.jsf");
+    background-image: url("/img/fondo_login.png");
     background-size: cover;     
     height: 100vh;     
     display: flex;     
