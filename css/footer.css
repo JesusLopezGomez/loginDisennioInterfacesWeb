@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url("/img/fondo_login.png");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_j8oeCtZRpgd_izAHBThxLuqsjfYxiOPw1Q&usqp=CAU");
     background-size: cover;     
     height: 100vh;     
     display: flex;     
